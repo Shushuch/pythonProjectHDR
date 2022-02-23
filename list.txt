@@ -1,0 +1,4 @@
+cave1.png 1
+cave2.png 2
+cave3.png 4
+cave4.png 8
